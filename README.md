@@ -1,3 +1,3 @@
 # IEEE
 
-![image info](./src/images/pictures/date.png)
+![image info](./src/images/date.png)
